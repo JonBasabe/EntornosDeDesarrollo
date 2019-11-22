@@ -10,7 +10,7 @@ public class menuak {
 		
 		//Bi zenbaki sartu
 		
-		//System.out.println("Introduce dos numeros");
+		//System.out.println("Introduce dos numeros");n
 		int zenb1=0;
 		int zenb2=0;
 		
